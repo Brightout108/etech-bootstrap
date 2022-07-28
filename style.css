@@ -1,3 +1,6 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .suc-text-color{
     color: #4A4A4A;
 }
@@ -8,17 +11,23 @@
     border-color: #289BDE;
 }
 
-. established-text{
+.established-text{
     color:#777777;
   
 }
 
 
 /* ---------------------stackover flow */
-img {
+.cover {
     
     filter: brightness(20%);
     filter:brightness(20%)
 }
- 
+
+.price{
+    color: #289BDE;
+}
+ .bold-course{
+    color: #4A4A4A;
+ }
 
